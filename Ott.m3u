@@ -332,3 +332,17 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Sports",T Sports HD 1 📺
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+                #========Bd ayna server=======
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/nerVeTp.jpeg",[BD] Zee Bangla HD
+http://premiumtvs.space/live/jen12345/Jen54321/435.ts
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/90d82846-70b9-44ee-9f7e-e440f00b3be8.png",[BD] Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd
+https://talive-anikad1.netlify.app/starjalshahd.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla hd
+http://premiumtvs.space/live/jen12345/Jen54321/23306.ts
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla
+http://premiumtvs.space/live/jen12345/Jen54321/183.ts
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema
+http://premiumtvs.space/live/jen12345/Jen54321/271038.ts
