@@ -350,8 +350,10 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
 http://premiumtvs.space/live/jen12345/Jen54321/23306.ts
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
-#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-1
 http://premiumtvs.space/live/jen12345/Jen54321/271038.ts
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-2
+http://103.180.212.191:3500/live/1657.m3u8
 
 
 #=====sport======
