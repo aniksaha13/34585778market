@@ -436,6 +436,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 http://198.195.239.50:8095/StarGold/index.m3u8
 
 #=======music=====
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/xFLjbWn.jpeg" group-title="music",9xm
+https://epiconvh.akamaized.net/live/9XM/master.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/xFLjbWn.jpeg" group-title="music",9x tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/kdj5FfF.jpeg" group-title="music",9x jalwa
